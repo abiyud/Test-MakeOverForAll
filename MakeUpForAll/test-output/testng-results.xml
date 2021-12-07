@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-06T15:48:28 WIB" name="Suite" finished-at="2021-12-06T15:48:48 WIB" duration-ms="20197">
+    <groups>
+    </groups>
+    <test started-at="2021-12-06T15:48:28 WIB" name="Filter Not Found" finished-at="2021-12-06T15:48:48 WIB" duration-ms="20197">
+      <class name="test.FilterItemFound">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.FilterItemFound@419c5f1a]" started-at="2021-12-06T15:48:28 WIB" name="setUp" finished-at="2021-12-06T15:48:30 WIB" duration-ms="1663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="filterFound()[pri:0, instance:test.FilterItemFound@419c5f1a]" started-at="2021-12-06T15:48:30 WIB" name="filterFound" finished-at="2021-12-06T15:48:47 WIB" duration-ms="16988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterFound -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.FilterItemFound@419c5f1a]" started-at="2021-12-06T15:48:47 WIB" name="tearDown" finished-at="2021-12-06T15:48:48 WIB" duration-ms="1505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.FilterItemFound -->
+    </test> <!-- Filter Not Found -->
+  </suite> <!-- Suite -->
+</testng-results>
